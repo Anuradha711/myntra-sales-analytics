@@ -1,4 +1,4 @@
-# myntra-sales-analytics
+
 # Myntra Sales & Product Analysis
 
 ## Project Overview
